@@ -16,6 +16,7 @@ var spacing = 100; //Spacing between mouse and cicles
 var xSpeed = 2;
 var ySpeed = 2;
 
+//Create a set of colors into an array
 var colorArray = [
     '#16193B',
     '#35478C',
