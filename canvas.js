@@ -22,7 +22,7 @@ var colorArray = [
     '#35478C',
     '#4E7AC7',
     '#7FB2F0',
-    '#ADD5F7',
+    '#ADD5F7',      
 ];
 
 
@@ -111,5 +111,5 @@ window.addEventListener('resize',
 		canvas.height = window.innerHeight;
     });
 
-
+//Testing animate
 animate();
